@@ -1,6 +1,6 @@
 # Goal-Based Budget Planner
 
-React + Node.js app for budgeting by goals with nested expenses. Remaining amount auto-updates based on the sum of expenses in each goal.
+React + Node.js app for budgeting by goals with nested expenses. Remaining amount auto-updates based on the sum of expenses in each goal. 
 
 ## Tech
 - Backend: Express + Mongoose (with automatic fallback to in-memory MongoDB for local dev)
